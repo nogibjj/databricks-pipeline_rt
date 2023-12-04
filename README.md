@@ -34,11 +34,13 @@ Successful Execution of Databricks Workflow:
 Data Workflow (Add your screenshot here)
 
 Note: The workflow is set to trigger automatically monthly to optimize costs.
+<img width="1329" alt="Screenshot 2023-11-30 at 4 00 13 PM" src="https://github.com/nogibjj/databricks-pipeline_rt/assets/143838819/22c13101-82b2-44c2-8ecf-1c18f2681325">
 
 CI/CD Workflow
 GitHub Actions automate package installation, Python script testing (pytest), code formatting (black), and linting (ruff).
 
 <img width="1263" alt="Screenshot 2023-11-30 at 3 59 38 PM" src="https://github.com/nogibjj/databricks-pipeline_rt/assets/143838819/1f144ef2-8e37-4e14-b479-e6ac165d76df">
+
 
 Error Handling
 Each code segment and notebook includes robust error handling and data validation. Errors are clearly logged, and cases with empty dataframes are flagged.
