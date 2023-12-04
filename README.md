@@ -1,5 +1,6 @@
-Databricks ETL Pipeline Project
-Introduction
+# Databricks ETL Pipeline Project
+
+## Introduction
 This repository hosts the ETL (Extract, Transform, Load) pipeline project implemented in Databricks using PySpark, Python, and Delta Tables, along with SQL for data processing. The project demonstrates end-to-end ETL operations within the Databricks Workspace.
 
 Originally based on the Week-11 Mini-Project, this repository has been adapted to fit specific ETL requirements.
